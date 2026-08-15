@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 # 👨‍💻 ¡Hola! Soy Leonel Madrid Mérida
 
 ### 🎓 Estudiante de Ingeniería en Sistemas | Guatemala 🇬🇹
